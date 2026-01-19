@@ -25,7 +25,7 @@ Analyze DNS queries from packet capture
 Repository Contents
 Packet capture file collected using Wireshark
 
-THE PCAP File is attached in the report   as the file is bigger then  25mb  Github restrict's its upload 
+THE  Main PCAP File is attached in the report   as the file is bigger then  25mb  Github restrict's its upload so a small sample Pcap file is uploaded
 
 Summary
 
